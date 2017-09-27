@@ -1,0 +1,9 @@
+{
+    "require": {
+        "illuminate/database": "^5.5",
+        "marcelog/pagi": "^2.0"
+    },
+    "autoload": {
+	"psr-4": {"PBX\\":"src/"}
+    }
+}
